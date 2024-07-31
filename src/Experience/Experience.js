@@ -6,6 +6,7 @@ import Renderer from './Renderer'
 import World from './World/World'
 import Resources from './Utils/Resources'
 import sources from './sources'
+import Floor from './World/Floor'
 
 let instance = null
 
